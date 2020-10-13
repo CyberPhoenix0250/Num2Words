@@ -1,0 +1,8 @@
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\bin\Debug\Num2Word.exe
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\bin\Debug\Num2Word.pdb
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\obj\Debug\Num2Word.csprojResolveAssemblyReference.cache
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\obj\Debug\Num2Word.Properties.Resources.resources
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\obj\Debug\Num2Word.csproj.GenerateResource.Cache
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\obj\Debug\Num2Word.exe
+c:\users\fx505dy\documents\visual studio 2012\Projects\Num2Word\Num2Word\obj\Debug\Num2Word.pdb
+C:\Users\FX505DY\documents\visual studio 2012\Projects\Num2Word\Num2Word\obj\Debug\Num2Word.Main.resources
